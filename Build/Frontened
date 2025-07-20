@@ -1,0 +1,8 @@
+Initial commit of front-end for Real Estate Price Prediction app
+
+Includes:
+- HTML layout for home page and input form
+- CSS for basic styling and responsive layout
+- JavaScript to handle form validation and API requests to the ML backend
+
+This UI allows users to input property details and view predicted prices.
